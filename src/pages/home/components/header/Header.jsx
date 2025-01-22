@@ -1,4 +1,3 @@
-
 import React from 'react';
 import logo from './assets/images/logo.png'
 import asideimge from './assets/images/asideimg.png'
@@ -37,4 +36,3 @@ const Header = () => {
 }
 
 export default Header;
-

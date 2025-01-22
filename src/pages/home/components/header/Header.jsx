@@ -36,7 +36,3 @@ const Header = () => {
 }
 
 export default Header;
-<<<<<<< HEAD
-=======
-
->>>>>>> 118a319e28b5eb97a736a71ea0e1c24a89351f57

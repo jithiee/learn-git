@@ -5,7 +5,7 @@ const Looking = () => {
         Looking for a Specific Product
       </h1>
       <h2 className="text-lg md:text-xl text-center font-medium mb-6">
-        The HubSpot Customer Platform includes six core products:
+        The HubSpot Customer Platform includes six core products:1235
       </h2>
       <div className="flex flex-col md:flex-row items-center justify-center gap-6">
         <img

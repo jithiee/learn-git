@@ -1,7 +1,7 @@
 
 import './App.css'
 import Header from './pages/home/components/header/Header'
-
+import Looking from './pages/home/components/looking/Looking'
 
 
 function App() {
@@ -17,6 +17,8 @@ function App() {
 
 
     <Header/>
+    
+    <Looking/>
     </>
   )
 }

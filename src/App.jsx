@@ -15,11 +15,6 @@ function App() {
       <Looking/>
       <Footer/>
 
-
-
-  
-
-
     </>
   )
 }

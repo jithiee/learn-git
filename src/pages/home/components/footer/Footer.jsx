@@ -28,6 +28,12 @@ function Footer() {
           <p>Security</p>
           <p>Website Accessibility</p>
           <p>Manage Cookies</p>
+
+          <p>egg Cookies</p>
+          <p>onion  Cookies</p>
+          <p>tomato  Cookies</p>
+          <p>potato  Cookies</p>
+      
         </div>
       <div>
 

@@ -35,6 +35,7 @@ function Footer() {
           <p>potato  Cookies</p>
       
         </div>
+        <p>HI HELLLO TESTING STASH</p>
       <div>
 
         
